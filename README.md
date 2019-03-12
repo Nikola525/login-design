@@ -1,3 +1,3 @@
 # login-design
 
-![display](display/login.gif )
+![demo](login.gif )
